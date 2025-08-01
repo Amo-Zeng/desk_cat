@@ -47,16 +47,15 @@ Choose the version for your system:
 
 #### Windows
 - [Windows x64 Installer](https://github.com/Amo-Zeng/desk_cat/releases/latest) (.exe)
-- [Windows Portable](https://github.com/Amo-Zeng/desk_cat/releases/latest) (.zip)
+
 
 #### macOS
 - [macOS Installer](https://github.com/Amo-Zeng/desk_cat/releases/latest) (.dmg)
-- [macOS Apple Silicon](https://github.com/Amo-Zeng/desk_cat/releases/latest) (M1/M2)
+
 
 #### Linux
 - [Linux AppImage](https://github.com/Amo-Zeng/desk_cat/releases/latest) (Universal)
-- [Linux .deb](https://github.com/Amo-Zeng/desk_cat/releases/latest) (Ubuntu/Debian)
-- [Linux .rpm](https://github.com/Amo-Zeng/desk_cat/releases/latest) (CentOS/Fedora)
+
 
 ### How to Use
 
